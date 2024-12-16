@@ -2,12 +2,10 @@
 📞 **CONTACT INFO:**
 
 ✉️busetkntg@gmail.com
-<a href="https://www.instagram.com/kullanici_adiniz" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="Instagram" width="30" height="30" style="margin-right: 10px;"/>
+<a href="https://www.instagram.com/kullanici_adiniz" target="_blank" style="text-decoration: none; color: #000000; font-size: 16px; font-weight: bold; margin-right: 15px;">
+  Instagram
 </a>
-<a href="https://www.twitter.com/kullanici_adiniz" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Twitter_Logo_As_of_2021.svg/1024px-Twitter_Logo_As_of_2021.svg.png" alt="Twitter" width="30" height="30"/>
-</a>
+
 
 
 
