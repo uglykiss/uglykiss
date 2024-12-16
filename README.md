@@ -1,4 +1,10 @@
 ## Hi there 👋
+📞 **CONTACT INFO:**
+✉️busetkntg@gmail.com
+<a href="https://www.instagram.com/kullanici_adiniz" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="Instagram" width="30" height="30"/>
+</a>
+
 
 <!--
 **uglykiss/uglykiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
