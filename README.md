@@ -5,6 +5,13 @@
 <a href="https://www.instagram.com/kullanici_adiniz" target="_blank" style="text-decoration: none; color: #000000; font-size: 16px; font-weight: bold; margin-right: 15px;">
   Instagram
 </a>
+<a href="https://www.twitter.com/kullanici_adiniz" target="_blank" style="text-decoration: none; color: #1DA1F2; font-size: 16px; font-weight: bold; margin-right: 15px;">
+  Twitter
+</a>
+<a href="https://www.linkedin.com/in/kullanici_adiniz" target="_blank" style="text-decoration: none; color: #0A66C2; font-size: 16px; font-weight: bold;">
+  LinkedIn
+</a>
+
 
 
 
